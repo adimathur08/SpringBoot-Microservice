@@ -17,7 +17,7 @@
 - `User Directory` internally calls `Address Book` to handle the `Address` for any `User`.
 
 
-### No Service registry is used. Instead create a 
+### No Service registry is used. Instead create a Docker network and use while running both images.
 
 
 #### Points to note:
