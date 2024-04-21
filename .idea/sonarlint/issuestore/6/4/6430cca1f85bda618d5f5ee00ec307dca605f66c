@@ -1,0 +1,9 @@
+
+c
+java:S22597"FA "NullPointerException" could be thrown; "getBody()" can return null.(øÙİ½8è­üéï1
+U	java:S1063"9Replace this use of System.out or System.err by a logger.(ªÇ°Ä8“®üéï1
+Z	java:S106;"9Replace this use of System.out or System.err by a logger.(ã“™øşÿÿÿÿ8®üéï1
+Z	java:S106L"9Replace this use of System.out or System.err by a logger.(ó€ˆÙıÿÿÿÿ8©®üéï1
+T	java:S106Z"9Replace this use of System.out or System.err by a logger.(¡–şI8·®üéï1
+t
+java:S6204\"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(Ï¸©Ìÿÿÿÿÿ8¹®üéï1
